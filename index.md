@@ -176,7 +176,6 @@ En BTS SIO, j’acquiers les compétences suivantes :
      - Je veux anticiper les besoins en compétences pour les entreprises.
    - **Sources principales** :
      - **SLAM** : blog Medium (dev.to), GitHub Trending, React official blog.
-     - **SISR** : blog AWS News, Cisco DevNet, ServeTheHome.
 
 ---
 
@@ -184,5 +183,5 @@ En BTS SIO, j’acquiers les compétences suivantes :
 
 - **E-mail **: wali-nadia@yahoo.com  
 - **Téléphone **: +337539817xx  
-- **GitHub **: https://github.com/MonProfil 
+- **GitHub **: [https://github.com/MonProfil ](https://github.com/Nadia-02)
 
