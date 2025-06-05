@@ -8,8 +8,8 @@ title: "Mon Portfolio"
 
 ## À propos de moi
 **Parcours avant le BTS :**  
-- Bac S, en candidat libre, obtenu en 06/2019.  
-- Projet ou intérêt marquant avant le BTS…
+- Bac S
+- Licence en physique
 
 **Motivations & objectifs :**  
 Je suis passionnée par la création d’applications utiles.  
